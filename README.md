@@ -1,6 +1,5 @@
 ## Eae sou wallacy
 Estudante de Análise e Desenvolvimento de sistemas <br>
-Gosto muito de fazer projetos "insanos" por que assim busco extrair 100% da linguagem para deixar como eu quero
 #
   
 <div align="center">
