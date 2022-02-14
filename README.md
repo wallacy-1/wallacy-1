@@ -14,3 +14,5 @@ Estudante de Análise e Desenvolvimento de sistemas <br>
    <a href="https://www.linkedin.com/in/wallacy-dos-santos-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:wwallacy@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   </div>
+
+  ![](https://hit.yhype.me/github/profile?user_id=59544182)
